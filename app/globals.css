@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #FBFFE4;
   --foreground: #171717;
 }
 
@@ -30,10 +30,10 @@ body {
   z-index: -1;
   top: -10vh;
   margin: auto;
-  background-color: #F6F7C4;
+  background-color: #3D8D7A;
   width: 100%;
   height: 50vh;
-  border-radius: 10%;
+  border-radius: 50px;
   border: solid 0px;
 }
 
